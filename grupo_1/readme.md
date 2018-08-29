@@ -110,7 +110,7 @@ Este projeto deverá ser feito neste arquivo até o dia **07/10/2018**. Pedidos 
 
 ### Projeto da Turbina
 
-O dimensionamento preliminar de uma turbina consistirá em determinar e dimensionar uma turbina para uma dado aproveitamento hidrelétrico. 
+O dimensionamento preliminar de uma turbina consistirá em determinar e dimensionar uma turbina para uma dado aproveitamento hidrelétrico.  
 
   - Cada grupo deverá especificar qual devem ser a potência e vazão da turbina a ser projetada, baseados nos cálculos dos projetos anteriores;
   
